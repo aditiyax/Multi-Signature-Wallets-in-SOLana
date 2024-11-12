@@ -1,0 +1,1 @@
+{"rustc":15952695707457292308,"features":"","target":0,"profile":0,"path":0,"deps":[[2449601975815716010,"build_script_build",false,6159978908874157803]],"local":[{"RerunIfChanged":{"output":"sbf-solana-solana/release/build/thiserror-d53b83c69594fa64/output","paths":["build/probe.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
